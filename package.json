@@ -1,5 +1,5 @@
 {
-  "name": "workouttracker",
+  "name": "WorkOutTracker",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,8 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/Geovany17/WorkOutTracker.git"
   },
-  "author": "Geovany Cardoza",
-  "license": "MIT",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Geovany17/WorkOutTracker/issues"
   },
