@@ -15,7 +15,7 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 
 ![workOutTracker demo](https://github.com/Geovany17/WorkOutTracker/blob/main/public/assets/appDemo.gif)
 ![workOutTracker screenshot](https://github.com/Geovany17/WorkOutTracker/blob/main/public/assets/Screenshot%20(95).png)
-![workOutTracker screenshot]()
+![workOutTracker screenshot](https://github.com/Geovany17/WorkOutTracker/blob/main/public/assets/Screenshot%20(96).png)
 
 
 
