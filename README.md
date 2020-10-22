@@ -13,7 +13,7 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 
 
 
-![workOutTracker demo]()
+![workOutTracker demo](https://github.com/Geovany17/WorkOutTracker/blob/main/public/assets/appDemo.gif)
 ![workOutTracker demo]()
 
 
